@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rudimentalingua00grotgoog_0302.png"; bbox 0 0 4244 5722; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1179 3077 1886 3297">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1179 3077 1886 3297">
+     <span class='ocr_line' id='line_1_1' title="bbox 1179 3077 1886 3182; baseline 0.011 -18"><span class='ocrx_word' id='word_1_1' title='bbox 1179 3077 1379 3165; x_wconf 74' lang='lat' dir='ltr'><strong>stanford</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1404 3079 1650 3182; x_wconf 72' lang='lat' dir='ltr'><strong>University</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1676 3089 1886 3172; x_wconf 75' lang='lat' dir='ltr'>Libmriee</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1297 3200 1766 3297; baseline 0.013 -14"><span class='ocrx_word' id='word_1_4' title='bbox 1297 3200 1508 3297; x_wconf 74' lang='lat' dir='ltr'><strong>stanford.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1534 3203 1766 3289; x_wconf 76' lang='lat' dir='ltr'><strong>California</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1000 3406 2084 3453">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1000 3406 2084 3453">
+     <span class='ocr_line' id='line_1_3' title="bbox 1000 3406 2084 3453; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 1000 3440 1023 3453; x_wconf 83' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1831 3436 1900 3446; x_wconf 52' lang='grc' dir='ltr'><strong>ω.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1936 3406 2084 3451; x_wconf 73' lang='lat' dir='ltr'>--h·&#39;,·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1188 3444 2110 3540">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1188 3444 2110 3585">
+     <span class='ocr_line' id='line_1_4' title="bbox 1188 3444 2110 3540; baseline -0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 1188 3444 1860 3540; x_wconf 55' lang='grc' dir='ltr'><strong>ιοωηώἱὸίᾎιὸἑῶοωαιωαω</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2047 3480 2110 3515; x_wconf 87' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2126 5722">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2126 5722">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2126 5722; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2126 5722; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
